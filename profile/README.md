@@ -1,5 +1,9 @@
 ## Herramientas para la ciencia de datos G16-d
 
+### Sesión 0 -  Introducción a Data Science 
+
+https://docs.google.com/presentation/d/1_SC28fgPZiDKohKvwXo3TdL3RWoMJJnyqOfjWNNm_9g/edit?usp=sharing
+
 ### Sesión 1 - Introducción a la programación en python
 
 El objetivo de esta sesión es dar una introducción al programa y a la ciencia de datos. Igualmente, se presentan los básicos de programación en python, como son: la declaración de variables y sus tipos, listas y diccionarios.
