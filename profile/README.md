@@ -24,4 +24,7 @@ Esta clase presenta la programación orientada a objetos en python, se explican 
 
 [Presentación](https://docs.google.com/presentation/d/1ZcHx9yZJFW5mNCGWehA8Kj3KeEe8wU9iJQcG39eJSPY/edit#slide=id.gba388653f5_0_6)
 
+---
+
+## 👩‍💻 Recursos Extra -
 
