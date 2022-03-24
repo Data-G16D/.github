@@ -2,7 +2,7 @@
 
 ### Sesión 0 -  Introducción a Data Science 
 
-https://docs.google.com/presentation/d/1_SC28fgPZiDKohKvwXo3TdL3RWoMJJnyqOfjWNNm_9g/edit?usp=sharing
+[Presentación](https://docs.google.com/presentation/d/1_SC28fgPZiDKohKvwXo3TdL3RWoMJJnyqOfjWNNm_9g/edit?usp=sharing)
 
 ### Sesión 1 - Introducción a la programación en python
 
