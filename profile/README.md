@@ -1,4 +1,4 @@
-## Herramientas para la ciencia de datos g16-d
+## Herramientas para la ciencia de datos G16-d
 
 ### Sesión 1 - Introducción a la programación en python
 
