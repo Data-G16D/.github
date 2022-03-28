@@ -28,6 +28,13 @@ Esta clase presenta la programación orientada a objetos en python, se explican 
 
 [Presentación](https://docs.google.com/presentation/d/1ZcHx9yZJFW5mNCGWehA8Kj3KeEe8wU9iJQcG39eJSPY/edit#slide=id.gba388653f5_0_6)
 
+### Sesión 5 - Introducción a SQL
+
+En esta clase se presentan las bases de datos relacionales y se presentan los básicos de Sistemas de Gestión de BD y del Lenguaje de Consulta Estructurado (SQL). Se muestra como crear tablas, explorar, filtrar , agrupar y ordenar datos.
+
+[Presentación](https://docs.google.com/presentation/d/1xIAM4qMoRdqVZvOJN_F4Cn57OOSAzi6Sur8aQbCWo7s/edit?usp=sharing)
+
+
 ---
 
 ## 👩‍💻 Recursos Extra -
