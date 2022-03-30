@@ -34,6 +34,13 @@ En esta clase se presentan las bases de datos relacionales y se presentan los b�
 
 [Presentación](https://docs.google.com/presentation/d/1xIAM4qMoRdqVZvOJN_F4Cn57OOSAzi6Sur8aQbCWo7s/edit?usp=sharing)
 
+### Sesión 6 - Joins
+
+En esta clase se exploran las diferentes maneras de combinar tablas dentro de una base de datos. Así mismo se presentan los conceptos de llaves primarias y foráneas. 
+
+[Presentación](https://docs.google.com/presentation/d/1KfcUr8NQjxjrueOGz7fYG1_BViso8FvnBmfjqyAcZWY/edit?usp=sharing)
+
+
 
 ---
 
