@@ -44,5 +44,4 @@ En esta clase se exploran las diferentes maneras de combinar tablas dentro de un
 
 ---
 
-## 👩‍💻 Recursos Extra -
 
