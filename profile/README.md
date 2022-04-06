@@ -40,6 +40,13 @@ En esta clase se exploran las diferentes maneras de combinar tablas dentro de un
 
 [Presentación](https://docs.google.com/presentation/d/1KfcUr8NQjxjrueOGz7fYG1_BViso8FvnBmfjqyAcZWY/edit?usp=sharing)
 
+### Sesión 7 - Subconsultas 
+
+En esta clase se continúa estudiando SQL, específicamente el tema de subconsultas y se explora la forma de combinar tablas dentro de una base de datos. 
+
+[Presentación](https://docs.google.com/presentation/d/1E-GFLPtfvnEbqmkoTiZdgb1xONxGt1CgHNJXZpiK2HE/edit?usp=sharing)
+
+
 
 
 ---
